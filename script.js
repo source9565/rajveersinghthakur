@@ -1,5 +1,5 @@
 function joinTelegram() {
-    window.open("https://t.me/+jjBL6qCey4w0Mzc0", "_blank");
+    window.open("https://t.me/+QtmKvpKDnOE4NTg0", "_blank");
   }
   
   function playFree() {
